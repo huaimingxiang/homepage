@@ -11,6 +11,10 @@
 ## 图片
 
 >- 图片1
- ![image](http://github.com/huaimingxiang/homepage/tree/master/img/homepage.png)
+
+![image](http://github.com/huaimingxiang/homepage/tree/master/img/homepage.png)
+
 >- 图片2
- ![image](http://github.com/huaimingxiang/homepage/tree/master/img/homepage2.png)
+
+![image](http://github.com/huaimingxiang/homepage/tree/master/img/homepage2.png)
+
