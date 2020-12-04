@@ -10,7 +10,7 @@
 
 ## 图片
 
-- 图片1
+>- 图片1
 ![image](https://github.com/huaimingxiang/homepage/tree/master/img/homepage.png)
 
 - 图片2
